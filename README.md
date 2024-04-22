@@ -1,8 +1,10 @@
-<!doctype html>
-<html lang="ja">
+<html>
 <head>
-  <meta charset="UTF-8">
-   <title>WEBクリエイション入門</title>
-   <meta name="description"content="HP作成の"
-   </head>
-   
+ <title>my first page</title>
+</head>
+<body>
+  <p align="center">ようこそWEBの世界へ！</p>
+  <p1 align="center">日々進歩していく。</p1>
+  <p2 align="center">○○さん、ようこそWEBへ</p2>
+</body>
+</html>
